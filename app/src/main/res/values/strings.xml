@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Stray Kids (Korean: 스트레이 키즈; RR: Seuteurei Kijeu; often abbreviated as SKZ) is a South Korean boy band formed by JYP Entertainment through the 2017 reality show of the same name. The group is composed of eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. Originally a nine-piece group, member Woojin left due to undisclosed personal reasons in October 2019. Stray Kids released their pre-debut extended play (EP) Mixtape in January 2018 and officially debuted on March 25 with the EP I Am Not.[1][2]</string>
+    <string name="content_specs_display">ganteng, cakep, baik, keren lah ya</string>
+    <string name="content_specs_size">tinggi banget</string>
+    <string name="content_specs_battery">Enggak perna kenal capek\n
+    Standby time (LTE): sampai ajal\n
+    Talk time (3g/WCDMA): up to 24/7\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of
+   charging</string>
+    <string name="stock">Stock member ada 8 anggota</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Melani Safwa Aprila</string>
+    <string name="NIM">24060120120008</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$1000000000000000</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
