@@ -1,18 +1,22 @@
 <resources>
     <string name="app_name">MyViewAndViews</string>
-    <string name="content_text">Stray Kids (Korean: 스트레이 키즈; RR: Seuteurei Kijeu; often abbreviated as SKZ) is a South Korean boy band formed by JYP Entertainment through the 2017 reality show of the same name. The group is composed of eight members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. Originally a nine-piece group, member Woojin left due to undisclosed personal reasons in October 2019. Stray Kids released their pre-debut extended play (EP) Mixtape in January 2018 and officially debuted on March 25 with the EP I Am Not.[1][2]</string>
-    <string name="content_specs_display">ganteng, cakep, baik, keren lah ya</string>
-    <string name="content_specs_size">tinggi banget</string>
-    <string name="content_specs_battery">Enggak perna kenal capek\n
-    Standby time (LTE): sampai ajal\n
-    Talk time (3g/WCDMA): up to 24/7\n
-    Internet use time (Wi-Fi): up to 13 hours\n
-    Internet use time (LTE): up to 13 hours\n
-    Video playback: up to 13 hours\n
-    Audio playback (via headset): up to 110 hours\n
-    Fast charging: up to 7 hours of use from only 15 minutes of
-   charging</string>
-    <string name="stock">Stock member ada 8 anggota</string>
+    <string name="content_text">Samsung Galaxy Z Flip merupakan HP dengan layar 6.7" dan tingkat densitas piksel sebesar 425ppi. Ia dilengkapi dengan kamera belakang 12 + 12MP dan kamera depan 10MP. HP ini juga hadir dengan kapasitas baterai 3300mAh. Samsung Galaxy Z Flip dirilis pada: 2020.</string>
+    <string name="content_specs_display">keren</string>
+    <string name="content_specs_size">medium</string>
+    <string name="content_specs_battery">Tanggal rilis : 10 Agustus 2022\n
+Layar Utama : Foldable Dynamic AMOLED 6,7 inci\n
+Layar pada Cover : Super AMOLED 1,9 inci\n
+Sistem Operasi : Android 12 dengan tampilan One UI 4.1.1\n
+Chipset : Qualcomm SM8475 Snapdragon 8+ Gen 1 \n
+Jaringan : 5G\n
+RAM dan Memori Internal : Varian 1 (RAM 8 GB Memori Internal 128 GB) Varian 2 (RAM 8 GB Memori Internal 256 GB), Varian 3 (RAM 8 GB Memori Internal 512 GB)\n
+Kamera Belakang : Kamera utama wide 12 MP, fitur Dual Pixel PDAF dan OIS, Kamera ultrawide 12 MP, keduanya bisa merekam video resolusi 4K\n
+Kamera Depan : 10 MP, bisa merekam video resolusi  4K\n
+Baterai : 3.700 mAh, mendukung fast charging 25W, baterai terisi 50 persen dalam waktu 30 menit, mendukung fast wireless charging 15W, dan reverse wireless charging 4,5W\n
+USB : Type-C versi 2.0\n
+NFC : Ada\n
+Finger print : Ada, di bagian samping</string>
+    <string name="stock">100 pcs</string>
     <string name="specification">Spesifikasi</string>
     <string name="display">Display</string>
     <string name="size">Size</string>
@@ -23,4 +27,10 @@
     <string name="buy">Beli</string>
     <string name="dummy_value">$1000000000000000</string>
     <string name="dummy_photos">6 photos</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="dummy_name">Samsung Galaxy Z Flip</string>
+    <string name="nama_beli">Nama\nBarang</string>
+    <string name="harga_beli">Harga</string>
+    <string name="berhasil_dibeli">Berhasil Dibeli!</string>
+    <string name="kembali">Kembali</string>
 </resources>
