@@ -16,7 +16,7 @@ Baterai : 3.700 mAh, mendukung fast charging 25W, baterai terisi 50 persen dalam
 USB : Type-C versi 2.0\n
 NFC : Ada\n
 Finger print : Ada, di bagian samping</string>
-    <string name="stock">100 pcs</string>
+    <string name="stock">1000 pcs</string>
     <string name="specification">Spesifikasi</string>
     <string name="display">Display</string>
     <string name="size">Size</string>
@@ -28,7 +28,7 @@ Finger print : Ada, di bagian samping</string>
     <string name="dummy_value">$1000000000000000</string>
     <string name="dummy_photos">6 photos</string>
     <string name="contact_seller">Contact Seller</string>
-    <string name="dummy_name">Samsung Galaxy Z Flip</string>
+    <string name="dummy_name">Samsung Z Flip</string>
     <string name="nama_beli">Nama\nBarang</string>
     <string name="harga_beli">Harga</string>
     <string name="berhasil_dibeli">Berhasil Dibeli!</string>
